@@ -1,6 +1,6 @@
 void main()
 {
-int a=10,b=20,s;
+int ayyyyyyyyy=10,b=20,s;
 s=a+b;
 printf("%d",s);
   iiii
